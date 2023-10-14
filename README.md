@@ -3,3 +3,6 @@
 
 # 许可
 本程序使用MIT开源许可
+
+# 依赖
+numpy, pandas, openpyxl
