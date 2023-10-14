@@ -5,4 +5,6 @@
 本程序使用MIT开源许可
 
 # 依赖
-numpy, pandas, openpyxl
+本脚本基于python3.10运行
+
+使用的包：numpy, pandas, openpyxl
